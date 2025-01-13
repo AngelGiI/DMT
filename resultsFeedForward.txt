@@ -1,0 +1,65 @@
+Run 1:
+Accuracy: 0.52
+Precision: 0.54
+Recall: 0.52
+F1-score: 0.52
+
+Run 2:
+Accuracy: 0.56
+Precision: 0.59
+Recall: 0.56
+F1-score: 0.57
+
+Run 3:
+Accuracy: 0.48
+Precision: 0.50
+Recall: 0.48
+F1-score: 0.48
+
+Run 4:
+Accuracy: 0.46
+Precision: 0.50
+Recall: 0.46
+F1-score: 0.46
+
+Run 5:
+Accuracy: 0.48
+Precision: 0.47
+Recall: 0.48
+F1-score: 0.47
+
+Run 6:
+Accuracy: 0.48
+Precision: 0.56
+Recall: 0.48
+F1-score: 0.48
+
+Run 7:
+Accuracy: 0.54
+Precision: 0.56
+Recall: 0.54
+F1-score: 0.54
+
+Run 8:
+Accuracy: 0.54
+Precision: 0.58
+Recall: 0.54
+F1-score: 0.55
+
+Run 9:
+Accuracy: 0.52
+Precision: 0.53
+Recall: 0.52
+F1-score: 0.52
+
+Run 10:
+Accuracy: 0.57
+Precision: 0.56
+Recall: 0.57
+F1-score: 0.56
+
+Average results:
+Accuracy: 0.51
+Precision: 0.54
+Recall: 0.51
+F1-score: 0.51

@@ -1,0 +1,65 @@
+Results for 10 independent runs of Feed Forward Neural Network Regressor:
+--------------------------------------------------
+Run 1:
+MSE: 1060.6318
+MAE: 28.1908
+R-squared: -0.0412
+
+Run 2:
+MSE: 924.2280
+MAE: 25.1894
+R-squared: -0.2058
+
+Run 3:
+MSE: 1062.4883
+MAE: 28.9375
+R-squared: -0.0204
+
+Run 4:
+MSE: 1015.5860
+MAE: 28.4570
+R-squared: -0.0072
+
+Run 5:
+MSE: 808.0659
+MAE: 23.2931
+R-squared: -0.0840
+
+Run 6:
+MSE: 963.7548
+MAE: 26.4242
+R-squared: -0.1196
+
+Run 7:
+MSE: 1113.6746
+MAE: 29.1704
+R-squared: -0.0833
+
+Run 8:
+MSE: 1128.9503
+MAE: 29.9582
+R-squared: 0.0000
+
+Run 9:
+MSE: 1201.1963
+MAE: 30.6041
+R-squared: -0.0389
+
+Run 10:
+MSE: 997.6471
+MAE: 27.6390
+R-squared: 0.0107
+
+Summary Statistics:
+--------------------------------------------------
+Mean Squared Error (MSE):
+Mean: 1027.6223
+Standard Deviation: 106.8286
+
+Mean Absolute Error (MAE):
+Mean: 27.7864
+Standard Deviation: 2.1289
+
+R-squared (Coefficient of Determination):
+Mean: -0.0590
+Standard Deviation: 0.0630

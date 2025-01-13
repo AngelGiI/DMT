@@ -1,0 +1,17 @@
+This is just for guidance, but in short:
+ - Manuel: *2B*, can start it rigth away. *2A* is to be done after task1, we can meet soon to discuss the algortihms and have a look together.
+ - Ángel: *5A*, can start rigth away. *4* is to be done after task1, same as 2A
+ - Emma: *1A* & *1B*, but we discuss together on the procedures and help at any step. 3 can also be started rith away
+ - To be assigned: *1C*, and *5B* (which has to be done after 4).
+
+We have to decide together for 1, 2A & 4. I took less points so I can also do 5B, for example. 1C we can work on it together whenever we meet and have the dataset cleaning finished
+
+
+
+
+
+
+It can help brainstorming
+It can help writing formally, but it does not do well in posing the ideas. So we have more time to do the creative and actually meaningful part of the process, while it agilizes big time the more tedious or less appealing parts. It is a choice, you can still write the whole thing but, personally, it helps me a lot, as i doubt on how to phrase some specific sentences and it just speeds up the process so much. If i don't like it, at least I got a new idea on how not to phrase it, or i can partly use the output while personalizing it to match what I wanted to say.
+
+It is true that it is not that smart, but i feel like some people also underestimate it. If you use it properly, it can be a life saver and so far I would estimate it has saved me more than 50h of workload ever since I signed up last November while my performance has not dropped. Furthermore, i would have the courage to say that I understand better what I do, because when it helps me to code it gives me methods that I didn't even know of and explains me why it is using them. It also performs spellign checks for the reports i feed it and adds suggestions. It is like having a buddy making his best to help you with constructive criticism and it is only getting smarter with time.

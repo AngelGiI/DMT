@@ -1,0 +1,306 @@
+Tijdstempel;What programme are you in?;Have you taken a course on machine learning?;Have you taken a course on information retrieval?;Have you taken a course on statistics?;Have you taken a course on databases?;What is your gender?;I have used ChatGPT to help me with some of my study assignments ;When is your birthday (date)?;How many students do you estimate there are in the room?;Did you stand up to come to your previous answer    ?;What is your stress level (0-100)?;How many hours per week do you do sports (in whole hours)? ;Give a random number;Time you went to bed Yesterday;What makes a good day for you (1)?;What makes a good day for you (2)?;What makes a good day for you (1)?_lemmatized;What makes a good day for you (2)?_lemmatized;Good_weather_day;incorrect_answer;stress_level_bins
+4-4-2023 12:08:33;artificial intelligence;yes;0;mu;nee;gender fluid;yes;23/11/1997;319;unknown;100.0;0.0;69;11:30;ashes;not ashes;ash;not ash;0;0;high
+4-4-2023 12:08:36;artificial intelligence;no;0;sigma;nee;male;not willing to say;5th August, 1995;600;no;60.0;2.0;42;23.00;good food;good sleep;good food;good sleep;0;0;medium
+4-4-2023 12:08:38;artificial intelligence;no;0;mu;nee;female;no;21/09;220;no;20.0;5.0;17;23:30;sports;friends;sport;friend;0;0;low
+4-4-2023 12:08:52;other;yes;1;mu;ja;male;yes;25-06-1996;100;unknown;50.0;5.0;12;11;gym;piano;gym;piano;0;0;medium
+4-4-2023 12:08:59;other;no;0;mu;nee;male;yes;18-08-1998;300;no;65.0;10.0;874;11;relax;sun;relax;sun;1;0;medium
+4-4-2023 12:08:59;business analytics;yes;0;mu;ja;female;yes;13-03-2000;500;no;80.0;5.0;13;12am;coffee;sunny weather;coffee;sunny weather;1;0;high
+4-4-2023 12:09:02;artificial intelligence;yes;0;mu;ja;male;yes;1999-07-21;150;no;100.0;7.0;27;23:00;good code;good code;good code;good code;0;0;high
+4-4-2023 12:09:12;artificial intelligence;yes;1;mu;ja;male;yes;08-03-2000;600;no;30.0;4.0;8;00:00;when the sun shines;if i am able to sport;when the sun shine;if i am able to sport;1;0;low
+4-4-2023 12:09:15;computational science;no;0;unknown;nee;male;not willing to say;24-11-1996;525;no;65.0;5.0;3.14;2230;expierence;expierence;expierence;expierence;0;0;medium
+4-4-2023 12:09:18;other;no;1;mu;ja;female;not willing to say;07.12.1998;570;no;70.0;6.0;777;00:00;experience a serotonin molecule;experience another serotonin molecule;experience a serotonin molecule;experience another serotonin molecule;0;0;high
+4-4-2023 12:09:18;artificial intelligence;yes;0;mu;ja;male;yes;02-01-1999;400;no;10.0;7.0;100;00:15;you;finally losing my virginity;you;finally losing my virginity;0;0;low
+4-4-2023 12:09:22;computer science;no;0;mu;ja;male;yes;1999/11/14;550;yes;100.0;0.5;28482947291;7：00;delicious food;nothing;delicious food;nothing;0;0;high
+4-4-2023 12:09:22;artificial intelligence;yes;1;mu;ja;male;yes;00-00-0000;-6382;yes;0.0;5.763456375838926;696969;4 am ;netflix and;chill;netflix and;chill;0;1;low
+4-4-2023 12:09:26;bioinformatics;yes;0;mu;ja;male;not willing to say;01-10;450;no;15.0;10.0;14;02:00;something surprising emerging;nothing bad happened;something surprising emerging;nothing bad happened;0;0;low
+4-4-2023 12:09:28;other;no;1;mu;ja;male;no;25th February ;230;no;42.0;3.0;42;4:30;coffee;engaging activities;coffee;engaging activity;0;0;medium
+4-4-2023 12:09:33;business analytics;yes;0;mu;ja;female;yes;25.09.2000;300;yes;50.0;5.763456375838926;25;11;sun;food;sun;food;1;0;medium
+4-4-2023 12:09:44;artificial intelligence;yes;1;mu;ja;male;yes;4 feb 1999;600;no;0.0;6.0;666;00:00;coffee;a good night sleep;coffee;a good night sleep;0;0;low
+4-4-2023 12:09:44;artificial intelligence;yes;1;mu;ja;male;yes;27-11-1999;600;no;30.0;12.0;4153;22:45;sunny weather;going to the gym;sunny weather;going to the gym;1;0;low
+4-4-2023 12:09:45;artificial intelligence;yes;0;mu;nee;male;yes;29-12-1997;750;no;77.0;6.0;866;12:30;thursday;saturday;thursday;saturday;0;0;high
+4-4-2023 12:09:51;business analytics;yes;1;mu;ja;female;yes;09-02-2000;534;no;40.0;4.0;93;00:15;sunshine;friends or family;sunshine;friend or family;1;0;medium
+4-4-2023 12:09:51;other;no;0;mu;nee;female;no;09-05-1999;350;no;70.0;8.0;9;22:30;good food;good company;good food;good company;0;0;high
+4-4-2023 12:09:52;artificial intelligence;yes;0;sigma;nee;male;yes;14-05-1999;150;no;100.0;168.0;290;4am;getting things done;creating;getting thing done;creating;0;1;high
+4-4-2023 12:09:53;other;no;1;mu;nee;male;not willing to say;11/11/1997;300;no;50.0;2.0;182638;12:00am;no task;alone;no task;alone;0;0;medium
+4-4-2023 12:09:54;business analytics;yes;0;mu;nee;female;no;04-01;800;no;70.0;0.0;90;12.00;eat well;sleep well;eat well;sleep well;0;0;high
+4-4-2023 12:09:59;artificial intelligence;yes;1;mu;ja;female;yes;08-08-1997;516;no;6.0;1.0;666;00:30;the sun;friends and food;the sun;friend and food;1;0;low
+4-4-2023 12:09:59;other;no;0;mu;nee;female;yes;11-05-1998;85;no;80.0;0.0;11;12;good food;productivity;good food;productivity;0;0;high
+4-4-2023 12:10:00;bioinformatics;yes;0;mu;ja;female;no;15-09-2002;450;no;70.0;2.0;96;02.00;eating chocolate;getting a high grade;eating chocolate;getting a high grade;0;0;high
+4-4-2023 12:10:03;business analytics;yes;0;mu;nee;male;yes;26/04/1997;400;no;99.0;2.0;4;2 am;being productive;having a good meal;being productive;having a good meal;0;0;high
+4-4-2023 12:10:05;bioinformatics;yes;0;sigma;nee;male;yes;2000-10-24;380;unknown;80.0;8.0;30;2:45;food;game;food;game;0;0;high
+4-4-2023 12:10:09;artificial intelligence;yes;0;unknown;ja;non-binary;not willing to say;05.07.2002;200;no;10.0;5.0;189572;01:00;good night rest;no anxiety;good night rest;no anxiety;0;0;low
+4-4-2023 12:10:11;bioinformatics;yes;0;mu;nee;female;not willing to say;31-01-2000;449;no;67.0;2.0;7;00:30;family;good food;family;good food;0;0;high
+4-4-2023 12:10:11;bioinformatics;yes;0;mu;nee;female;yes;03/05/1997;600;no;80.0;2.0;7;22:20;blue skies;lakes beach;blue sky;lake beach;0;0;high
+4-4-2023 12:10:14;computer science;unknown;unknown;mu;ja;male;no;31-03-1999;500;unknown;90.0;8.0;24;24:00;good weather;no assigment;good weather;no assigment;1;0;high
+4-4-2023 12:10:14;computer science;no;0;mu;ja;female;yes;7.27;200;no;30.0;8.0;27;11.30;sunny days;good meals;sunny day;good meal;1;0;low
+4-4-2023 12:10:15;bioinformatics;yes;0;unknown;nee;female;no;18-12-1998;400;no;10.0;4.0;25;2 am ;slept well;food;slept well;food;0;0;low
+4-4-2023 12:10:17;finance;yes;1;mu;ja;male;not willing to say;17/02/1998;400;no;80.0;3.0;11;12;friends;family;friend;family;0;0;high
+4-4-2023 12:10:17;artificial intelligence;yes;1;mu;nee;female;yes;22/08/1999;400;no;80.0;6.0;69;22:30;a sunny day;if i had a nice workout;a sunny day;if i had a nice workout;1;0;high
+4-4-2023 12:10:18;artificial intelligence;no;1;mu;nee;female;yes;28-09-1998;500;no;50.0;4.0;56;23:30;sunny;good food;sunny;good food;1;0;medium
+4-4-2023 12:10:18;econometrics;yes;1;mu;ja;male;yes;5 July 2001;300;no;50.0;6.0;10;6 am;feeling productive;exercised;feeling productive;exercised;0;0;medium
+4-4-2023 12:10:21;artificial intelligence;yes;1;mu;ja;female;yes;12-03-1999;350;no;40.0;8.0;9;23:30;good food;nice people;good food;nice people;0;0;medium
+4-4-2023 12:10:27;other;yes;1;mu;ja;female;yes;14-12-1997;400;no;90.0;4.0;3;01:00;no obligations;being outside in the sun;no obligation;being outside in the sun;1;0;high
+4-4-2023 12:10:32;bioinformatics;yes;0;mu;ja;female;yes;31/10/2001;300;no;100.0;2.0;2;4:00am;good morning routine;sunny weather;good morning routine;sunny weather;1;1;high
+4-4-2023 12:10:35;computational science;yes;0;mu;ja;female;yes;10/01/2001;270;unknown;39.0;0.0;987.654.321.123.456.000;after midnight;family;friends;family;friend;0;1;medium
+4-4-2023 12:10:36;artificial intelligence;yes;1;mu;nee;female;no;01/25/1998;180;no;25.0;5.0;66;11:30;good weather;cats;good weather;cat;1;0;low
+4-4-2023 12:10:36;bioinformatics;yes;0;mu;nee;male;yes;24/04/1996;230;no;15.0;12.0;99;1am;food;sex;food;sex;0;0;low
+4-4-2023 12:10:38;bioinformatics;yes;0;mu;nee;not willing to answer;yes;08-08-1999;500;no;30.0;4.0;3;0 am;bread;coffee;bread;coffee;0;0;low
+4-4-2023 12:10:38;human language technology;yes;0;sigma;nee;female;not willing to say;1994-06-18;400;no;55.0;4.0;4;1230;coffee;good sleep;coffee;good sleep;0;0;medium
+4-4-2023 12:10:39;artificial intelligence;no;0;mu;nee;male;yes;19/09/1998;100;no;10.0;0.0;23;12:00;sticking to my timetable;eating good food;sticking to my timetable;eating good food;0;0;low
+4-4-2023 12:10:40;econometrics;yes;1;mu;ja;female;not willing to say;08-09-2000;520;no;70.0;4.0;999;12;the sun;chill in nature;the sun;chill in nature;1;0;high
+4-4-2023 12:10:41;other;yes;0;mu;nee;female;yes;17-04-1998;550;no;0.0;3.0;43;00.30;working out;no class;working out;no class;0;0;low
+4-4-2023 12:10:42;computer science;yes;unknown;mu;ja;male;yes;02-11-2000;200;no;30.0;7.0;Random number;02.00;nice weather;kindness;nice weather;kindness;1;0;low
+4-4-2023 12:10:42;econometrics;unknown;0;mu;nee;male;yes;06-09-1998;75;no;55.0;5.0;6;0000;good results;prodictivity;good result;prodictivity;0;0;medium
+4-4-2023 12:10:43;computer science;yes;0;unknown;ja;male;not willing to say;2000-2-28;300;unknown;30.0;5.0;69;24:00;coffee;sunset;coffee;sunset;1;0;low
+4-4-2023 12:10:45;finance;yes;unknown;mu;nee;male;yes;30 March 1998;200;no;50.0;7.0;42;12:30am;sunny weather;no class;sunny weather;no class;1;0;medium
+4-4-2023 12:10:45;computer science;no;0;mu;ja;female;not willing to say;12-06-1998;300;no;99.0;5.763456375838926;22;1:40;good food;biking;good food;biking;0;0;high
+4-4-2023 12:10:45;bioinformatics;yes;0;mu;ja;female;yes;16-01-1999;400;no;65.0;3.0;4;22:00;nice weather;friends;nice weather;friend;1;0;medium
+4-4-2023 12:10:45;bioinformatics;yes;0;unknown;nee;female;yes;22.04.1996;581;no;100.0;3.0;22;01:00;no class;no exam;no class;no exam;0;0;high
+4-4-2023 12:10:46;artificial intelligence;no;0;mu;nee;female;yes;12-08-1999;120;no;30.0;5.0;35;02:00;good breakfast;good workout;good breakfast;good workout;0;0;low
+4-4-2023 12:10:47;finance;yes;1;mu;nee;gender fluid;no;17/12;400;no;100.0;5.0;29;02:00;a day where i went to the gym;a productive day study wise;a day where i went to the gym;a productive day study wise;0;1;high
+4-4-2023 12:10:48;finance;yes;0;sigma;nee;male;no;2/6/1997;200;no;10.0;0.0;7;01.00;food;sun;food;sun;1;0;low
+4-4-2023 12:10:48;cls;no;0;mu;nee;male;yes;28-05-1999;300;no;35.0;3.0;6;0:15;vacation;company;vacation;company;0;0;medium
+4-4-2023 12:10:49;human language technology;yes;0;mu;nee;female;no;28 december 2000;500;no;17.0;2.0;22;02:00;good weather;free time;good weather;free time;1;0;low
+4-4-2023 12:10:49;artificial intelligence;yes;0;mu;ja;female;not willing to say;31-03-1998;222;no;98.0;0.0;5;around 5:30;eat well;sleep well;eat well;sleep well;0;0;high
+4-4-2023 12:10:50;computational science;yes;1;mu;ja;female;not willing to say;02-05-1999;300;no;70.0;1.0;69;12;coffee;friends;coffee;friend;0;0;high
+4-4-2023 12:10:50;human language technology;yes;0;mu;nee;female;yes;06/11/2000;200;no;10.0;2.0;5;12:00;good weather;friends;good weather;friend;1;0;low
+4-4-2023 12:10:50;finance;yes;1;mu;nee;male;no;02-06-2000;350;no;0.0;4.0;6;22:00;food;sleep;food;sleep;0;0;low
+4-4-2023 12:10:51;business analytics;yes;0;mu;nee;female;yes;30-01;150;no;15.0;5.0;8;00:30;sun;good night of sleep;sun;good night of sleep;1;0;low
+4-4-2023 12:10:51;artificial intelligence;no;0;mu;nee;female;yes;19-02-2000;350;no;70.0;1.0;28;00:30;good meal;sun;good meal;sun;1;0;high
+4-4-2023 12:10:52;bioinformatics;yes;0;mu;nee;male;no;07/08/1997;300;no;50.0;4.0;3;1 am;music;food;music;food;0;0;medium
+4-4-2023 12:10:53;bioinformatics;yes;0;mu;ja;female;yes;01/05/1997;580;no;60.0;1.0;8;12;sun;good food;sun;good food;1;0;medium
+4-4-2023 12:10:53;artificial intelligence;no;0;mu;nee;female;yes;03311991;300;no;50.0;1.0;99;23:30;nice weather;nice meal and coffee;nice weather;nice meal and coffee;1;0;medium
+4-4-2023 12:10:53;econometrics;yes;1;mu;ja;male;yes;08-07-2001;100;no;40.0;7.0;6;00:30;good food;sun;good food;sun;1;0;medium
+4-4-2023 12:10:54;artificial intelligence;yes;0;mu;ja;female;no;17/6/1997;285;no;100.0;0.0;65435798764476555;11;no lecture;sun;no lecture;sun;1;1;high
+4-4-2023 12:10:55;artificial intelligence;no;0;mu;ja;male;no;2-3;400;no;5.0;10.0;7556544;23:30;holiday;sport;holiday;sport;0;0;low
+4-4-2023 12:10:55;business analytics;yes;0;mu;ja;female;no;18-08-1996;350;no;20.0;15.0;26;22:30;sunshine;friends;sunshine;friend;1;0;low
+4-4-2023 12:10:56;business analytics;yes;0;mu;ja;male;no;20 June;550;no;30.0;10.0;8;23:00;good weather;friend;good weather;friend;1;0;low
+4-4-2023 12:10:56;artificial intelligence;yes;0;mu;ja;female;yes;04-12-1998;170;no;65.0;8.0;69;22:30;good weather;walking my dog;good weather;walking my dog;1;0;medium
+4-4-2023 12:10:56;other;yes;0;mu;ja;female;no;16-09-1999;581;no;100.0;0.0;69;23:00;having some free time for once;no exam;having some free time for once;no exam;0;0;high
+4-4-2023 12:10:56;computer science;yes;1;mu;ja;male;not willing to say;4.2;400;yes;10.0;6.0;8;1:00;work done;travelling;work done;travelling;0;0;low
+4-4-2023 12:10:56;computer science;yes;0;mu;ja;male;yes;5/11/2000;200;no;100.0;2.0;7;4am;well fed;well rested;well fed;well rested;0;0;high
+4-4-2023 12:10:56;econometrics;yes;0;mu;nee;male;yes;26/10/1996;300;no;10.0;7.0;936;23:30;productive;coffee;productive;coffee;0;0;low
+4-4-2023 12:10:56;other;no;0;mu;nee;female;not willing to say;23 december;365;no;99.0;0.0;7;23.40;gossiping;sleep;gossiping;sleep;0;0;high
+4-4-2023 12:10:56;business analytics;yes;1;mu;ja;female;yes;23-10-2001;555;no;66.0;4.0;3;2300;lekker eten;leuke mensen;lekker eten;leuke mensen;0;0;medium
+4-4-2023 12:10:56;computational science;yes;0;mu;nee;male;no;22 June 1999;226;no;5.0;3.0;7,38375E+13;00:00;friends;sun;friend;sun;1;0;low
+4-4-2023 12:10:57;artificial intelligence;yes;1;sigma;ja;male;yes;13/12;280;no;51.0;3.0;42;11 PM;good sleep;tasty meal for dinner;good sleep;tasty meal for dinner;0;0;medium
+4-4-2023 12:10:57;artificial intelligence;yes;1;mu;nee;female;yes;12-08-2000;500;no;40.0;6.0;18;22.00;friends and food;nice weather;friend and food;nice weather;1;0;medium
+4-4-2023 12:10:57;bioinformatics;no;0;mu;ja;male;yes;"21'-;2\t-2000";six hundred;no;48.261403333333334;6.0;1337;00:30;a nice phish;lots of stress;a nice phish;lot of stress;0;0;medium
+4-4-2023 12:10:57;business analytics;yes;0;mu;nee;female;yes;15-09-1999;175;no;15.0;8.0;9;12:15;sun;good food;sun;good food;1;0;low
+4-4-2023 12:10:57;bioinformatics;yes;0;sigma;nee;male;yes;12.12.1997;500;no;5.0;6.0;8;2am;morning sex;cocain;morning sex;cocain;0;0;low
+4-4-2023 12:10:57;other;yes;0;mu;nee;female;yes;04.09.2000;300;no;15.0;9.0;56;24;warm and sunny;friends;warm and sunny;friend;1;0;low
+4-4-2023 12:10:57;econometrics;no;1;mu;nee;female;yes;23;400;no;75.0;7.0;3;21:30;doing yoga;sunshine;doing yoga;sunshine;1;0;high
+4-4-2023 12:10:58;other;yes;1;unknown;ja;male;yes;23-08-1999;250;no;40.0;3.0;Driehonderd ;23:59;sun;music;sun;music;1;0;medium
+4-4-2023 12:10:58;finance;yes;1;mu;nee;male;no;31-08-1997;284;no;5.0;2.0;6;23:30;nice weather;winning at life;nice weather;winning at life;1;0;low
+4-4-2023 12:10:58;artificial intelligence;yes;0;mu;ja;male;yes;23-05-2000;220;no;5.0;7.0;6;23:30;beer;beer;beer;beer;0;0;low
+4-4-2023 12:10:58;artificial intelligence;no;0;mu;ja;not willing to answer;yes;24/11/1999;200;no;90.0;45.0;pi;late ;being productive;being relaxed;being productive;being relaxed;0;0;high
+4-4-2023 12:10:58;artificial intelligence;yes;0;mu;nee;female;yes;23/09;222;no;99.0;2.0;42;3;good weather;no stress;good weather;no stress;1;0;high
+4-4-2023 12:10:58;finance;yes;0;mu;nee;female;yes;14/10;453;no;65.0;4.0;1827;00:00;well rested;exercise;well rested;exercise;0;0;medium
+4-4-2023 12:10:59;artificial intelligence;yes;1;mu;ja;male;yes;27.09.1999;31;yes;100.0;0.0;90;02.35;data;mining;data;mining;0;0;high
+4-4-2023 12:10:59;other;no;0;mu;nee;female;yes;02-05-2000;250;no;70.0;6.0;536;22:00;seeing friends;no study;seeing friend;no study;0;0;high
+4-4-2023 12:10:59;computer science;no;1;mu;ja;male;yes;8.1;300;no;50.0;1.0;8;12;money;sleeping;money;sleeping;0;0;medium
+4-4-2023 12:11:00;econometrics;no;0;mu;nee;female;yes;03/04/1998;487;no;9.0;11.0;4;23;coffee;sun;coffee;sun;1;0;low
+4-4-2023 12:11:00;business analytics;yes;1;mu;ja;female;yes;Somewhere in the summer;300;no;50.0;4.0;7;23:15;the sun shining;friends;the sun shining;friend;1;0;medium
+4-4-2023 12:11:00;artificial intelligence;yes;unknown;unknown;ja;female;yes;10-09-1997;400;no;70.0;10.0;9997655;22:50;sun;friends;sun;friend;1;0;high
+4-4-2023 12:11:00;computational science;yes;0;mu;ja;female;yes;11-24;550;no;70.0;3.0;7;1:20 am;nice weather;good news;nice weather;good news;1;0;high
+4-4-2023 12:11:00;artificial intelligence;no;0;mu;nee;female;yes;08-06-2000;250;no;86.0;6.0;7;23.15;oatmeal;sex;oatmeal;sex;0;0;high
+4-4-2023 12:11:00;finance;yes;0;mu;nee;male;not willing to say;12.02.1997;187;no;85.0;0.0;3840;1:00 AM ;having a good meal;going on a nice walk with my dog;having a good meal;going on a nice walk with my dog;0;0;high
+4-4-2023 12:11:01;other;no;0;mu;nee;male;yes;01-01-1900;236;no;99.0;6.0;77266200376655155388366366655583;22:00;preheating a sausage roll;sleep;preheating a sausage roll;sleep;0;0;high
+4-4-2023 12:11:01;finance;yes;0;mu;nee;male;yes;30/04/1998;450;no;69.0;8.0;28;23:30;good food;good sleep;good food;good sleep;0;0;high
+4-4-2023 12:11:02;artificial intelligence;yes;0;mu;ja;female;yes;15/07/97;229;no;100.0;1.0;9;12:30;good breakfast;wake up early;good breakfast;wake up early;0;0;high
+4-4-2023 12:11:02;econometrics;yes;0;mu;nee;female;yes;17.04.1997;300;no;68.0;1.0;76;3 am;nice weather;good food;nice weather;good food;1;0;high
+4-4-2023 12:11:02;artificial intelligence;no;0;mu;ja;female;yes;14-06-1999;100;no;10.0;1.5;99;23:00;the sun;sunshine;the sun;sunshine;1;0;low
+4-4-2023 12:11:03;artificial intelligence;yes;0;mu;ja;male;no;30 may 1997;420;no;30.0;6.0;9;00:25;good food;sun shining;good food;sun shining;1;0;low
+4-4-2023 12:11:03;artificial intelligence;yes;0;mu;nee;female;yes;6-8-1997;230;no;43.0;5.0;37;00:20;nice breakfast;food;nice breakfast;food;0;0;medium
+4-4-2023 12:11:03;artificial intelligence;yes;1;mu;nee;not willing to answer;yes;06/05/1999;350;no;1.0;10.0;2645738475736375389;01:00;sun and free time;gym;sun and free time;gym;1;0;low
+4-4-2023 12:11:03;business analytics;yes;0;mu;nee;male;yes;04/03/2000;350;no;22.0;7.0;58;23:30;nice weather;activities;nice weather;activity;1;0;low
+4-4-2023 12:11:03;artificial intelligence;yes;0;mu;nee;male;not willing to say;Oud;427;no;62.0;5.0;27922261;02:00;socializing;new friends;socializing;new friend;0;0;medium
+4-4-2023 12:11:04;other;yes;0;unknown;nee;female;yes;19;456;no;99.0;7.0;7;23.59;good food;making music;good food;making music;0;0;high
+4-4-2023 12:11:04;econometrics;yes;1;mu;nee;male;not willing to say;11-08-1997;350;no;60.0;8.0;3.14;0030;sleeping out;good deed done;sleeping out;good deed done;0;0;medium
+4-4-2023 12:11:04;bioinformatics;yes;unknown;mu;ja;non-binary;no;6/11/1999;250;no;40.0;5.0;21;23:45;nice weather;bier;nice weather;bier;1;0;medium
+4-4-2023 12:11:05;business analytics;yes;1;mu;ja;female;yes;1997;900;unknown;100.0;0.0;3;22.30;fun;getting a good night s sleep;fun;getting a good night s sleep;0;0;high
+4-4-2023 12:11:05;computational science;yes;0;mu;nee;male;yes;19-05-2000;300;no;10.0;8.0;948467618289167649818181849739491;22:00;being active;food and drinks;being active;food and drink;0;0;low
+4-4-2023 12:11:05;finance;yes;0;mu;nee;male;yes;14-08-2000;275;no;30.0;6.0;42;1 am;having a good chat with friends;a good lunch;having a good chat with friend;a good lunch;0;0;low
+4-4-2023 12:11:05;artificial intelligence;yes;0;mu;ja;male;no;5-2-1997;376;no;60.0;10.0;6721;22.16;time to read;sunny days;time to read;sunny day;1;0;medium
+4-4-2023 12:11:05;bioinformatics;no;0;sigma;nee;male;yes;14/07/1994;300.5;no;100.0;5.0;7;12 am;clear skies;cake;clear sky;cake;0;1;high
+4-4-2023 12:11:06;artificial intelligence;yes;0;sigma;ja;female;no;23/4/1985;413;no;74.0;5.0;623;21:53;sunshine;good music;sunshine;good music;1;0;high
+4-4-2023 12:11:06;computational science;no;1;mu;nee;female;yes;30 September 1997;325;no;45.0;3.0;72;2:00;arts crafts;free time;art craft;free time;0;0;medium
+4-4-2023 12:11:06;artificial intelligence;yes;0;mu;nee;male;yes;22-12-1997;543;no;15.0;6.0;158295726;00:30;the sun;video game;the sun;video game;1;0;low
+4-4-2023 12:11:06;computer science;yes;0;sigma;ja;male;not willing to say;13/03/1999;150;no;80.0;5.0;88;2:30am;video game;having fun;video game;having fun;0;0;high
+4-4-2023 12:11:06;bioinformatics;yes;0;mu;ja;male;no;11-05-1998;600;no;65.0;4.0;69;Midnight;little stress;being productive in some way;little stress;being productive in some way;0;0;medium
+4-4-2023 12:11:06;artificial intelligence;no;1;mu;ja;female;yes;25/04/1999;380;no;65.0;10.0;4;01:00 ;did sports;being free;did sport;being free;0;0;medium
+4-4-2023 12:11:06;econometrics;no;0;mu;ja;female;yes;25-05-1999;280;no;40.0;6.0;68;11;sun;learning;sun;learning;1;0;medium
+4-4-2023 12:11:07;artificial intelligence;yes;0;mu;ja;male;yes;05/12/1999;350;no;20.0;1.0;4;0200;progress;drinks;progress;drink;0;0;low
+4-4-2023 12:11:07;finance;yes;0;mu;nee;male;no;20.01.1999;400;no;15.0;8.0;1;22.30;sport;being duty free;sport;being duty free;0;0;low
+4-4-2023 12:11:07;econometrics;yes;0;sigma;nee;male;not willing to say;04/10;450;no;23.0;10.0;23;1:00;sleeping in;good meal;sleeping in;good meal;0;0;low
+4-4-2023 12:11:07;other;no;0;mu;nee;male;no;15-01-2001;400;no;20.0;6.0;8;23:00;good sleep;good sleep no stress laughter;good sleep;good sleep no stress laughter;0;0;low
+4-4-2023 12:11:07;other;no;0;mu;nee;female;no;02-1998;456;no;85.0;3.0;3;23.30;sun coffee friends;sun;sun coffee friend;sun;1;0;high
+4-4-2023 12:11:08;artificial intelligence;yes;0;mu;ja;female;yes;11/08/1992;575;no;99.0;10.0;7;00:22;enough sleep;good food and beer with friends;enough sleep;good food and beer with friend;0;0;high
+4-4-2023 12:11:08;computational science;unknown;0;mu;ja;male;yes;3rd July, 1998;300;no;50.0;5.0;4793374949;12;good sleep;goed slaap;good sleep;goed slaap;0;0;medium
+4-4-2023 12:11:08;computer science;no;1;sigma;ja;male;no;25-04-1987;200;no;0.0;4.0;59;12;lekker eten en slapen;study success;lekker eten en slapen;study success;0;0;low
+4-4-2023 12:11:08;other;yes;0;sigma;nee;female;yes;08-08-2001;350;no;95.0;4.0;8;23:30;sport;circumstances;sport;circumstance;0;0;high
+4-4-2023 12:11:09;artificial intelligence;yes;1;mu;ja;male;yes;17/01/1997;287;no;6.0;4.0;7;02:45;mood;having worked out in the morning;mood;having worked out in the morning;0;0;low
+4-4-2023 12:11:10;artificial intelligence;yes;1;mu;nee;male;yes;27-03;400;no;10.0;8.0;63;00:30;the sun shining;friends;the sun shining;friend;1;0;low
+4-4-2023 12:11:10;artificial intelligence;yes;1;mu;nee;female;yes;25-10;400;no;10.0;3.0;6;23u;sunshine;no deadlines;sunshine;no deadline;1;0;low
+4-4-2023 12:11:11;business analytics;yes;0;mu;ja;female;yes;15-11-1998;400;no;70.0;3.0;6;00:00;good food;not able to fix bugs in the code;good food;not able to fix bug in the code;0;0;high
+4-4-2023 12:11:11;artificial intelligence;yes;1;unknown;ja;male;no;15;180;no;0.0;8.0;29;12;fixed bugs in the code;winning;fixed bug in the code;winning;0;0;low
+4-4-2023 12:11:11;artificial intelligence;no;0;mu;nee;male;yes;10/03/2001;283;no;8.0;9.0;42;2300;training;loved ones;training;loved one;0;0;low
+4-4-2023 12:11:12;econometrics;yes;0;mu;nee;female;yes;21-02;350;no;50.0;3.0;33;23.30;prayer;sex;prayer;sex;0;0;medium
+4-4-2023 12:11:12;econometrics;no;0;mu;nee;male;yes;15-01-1999;400;no;25.0;10.0;420;23:00;friends sport using my brain helping someone;painting;friend sport using my brain helping someone;painting;0;0;low
+4-4-2023 12:11:12;computational science;no;1;mu;nee;female;yes;07-10-1999;450;no;10.0;4.0;5;2 am;good sleep;sunny walk;good sleep;sunny walk;1;0;low
+4-4-2023 12:11:12;business analytics;yes;1;mu;ja;male;yes;07-07-1995;400;no;30.0;6.0;73;12;sport;doing sports;sport;doing sport;0;0;low
+4-4-2023 12:11:12;artificial intelligence;yes;0;mu;ja;male;yes;1997;400;no;10.0;10.0;2;23:00;good weather;sunshine;good weather;sunshine;1;0;low
+4-4-2023 12:11:13;business analytics;yes;1;mu;ja;female;yes;11-09-2000;500;no;90.0;3.0;12;00:30;coffee;enough sleep;coffee;enough sleep;0;0;high
+4-4-2023 12:11:13;business analytics;yes;1;mu;ja;male;no;09-07-2000;400;no;90.0;4.0;420;23:30;fun activities for work school;getting hours of sleep;fun activity for work school;getting hour of sleep;0;0;high
+4-4-2023 12:11:13;business analytics;yes;1;mu;ja;male;yes;04/11/00;334;no;80.0;20.0;4;21.00;start with a training on the water rowing;ideas;start with a training on the water rowing;idea;0;0;high
+4-4-2023 12:11:13;bioinformatics;yes;unknown;mu;nee;not willing to answer;no;10-01-2001;657;no;0.0;0.01;83635367383883939383726242;23.58;air;reading;air;reading;0;1;low
+4-4-2023 12:11:13;cls;yes;0;mu;nee;male;no;1999-12-21;348;no;0.0;15.0;5;23:00;exercise;taking a walk;exercise;taking a walk;0;0;low
+4-4-2023 12:11:14;artificial intelligence;no;0;mu;ja;female;no;23.12.1999;350;no;20.0;7.0;23;12:30 am;doing everything from my todo list;meeting friends;doing everything from my todo list;meeting friend;0;0;low
+4-4-2023 12:11:14;artificial intelligence;yes;0;mu;nee;female;yes;06-11-1999;400;no;26.0;5.0;53645936;00.30;relaxing;productivity;relaxing;productivity;0;0;low
+4-4-2023 12:11:15;other;yes;0;mu;ja;male;yes;01/01/1990;500;no;50.321;5.0;314.159;23.5;sun;weather;sun;weather;1;0;medium
+4-4-2023 12:11:15;computational science;no;0;mu;nee;male;yes;02.08.1998;189;no;75.0;10.0;7362562722;00.26;sleep;good sleep;sleep;good sleep;0;0;high
+4-4-2023 12:11:16;artificial intelligence;yes;1;mu;ja;female;yes;03-05-2000;520;no;20.0;2.0;67;23:00;good food;sunny days;good food;sunny day;1;0;low
+4-4-2023 12:11:16;bioinformatics;yes;0;sigma;nee;female;yes;16/06/1999;500;yes;99.0;2.0;6;11,1;nothing happens;sushi;nothing happens;sushi;0;0;high
+4-4-2023 12:11:16;econometrics;no;1;mu;ja;female;no;14-12-2000;400;no;65.0;4.0;4;01:00;sunny day;holiday;sunny day;holiday;1;0;medium
+4-4-2023 12:11:16;computer science;yes;1;unknown;ja;female;not willing to say;21/03/2000;300;no;20.0;6.0;3;12;sun;winning a lottery;sun;winning a lottery;1;0;low
+4-4-2023 12:11:16;finance;yes;unknown;mu;ja;male;no;23-03-1998;477;no;45.0;4.0;3;00.30;getting all my things done;alcohol;getting all my thing done;alcohol;0;0;medium
+4-4-2023 12:11:17;computer science;yes;0;mu;ja;female;yes;7-7;350;yes;7.0;7.0;7;2;music;quality time with friends;music;quality time with friend;0;0;low
+4-4-2023 12:11:17;bioinformatics;no;0;mu;nee;female;no;23/11/1997;250;no;50.0;1.0;73;2AM;being productive;when i do not need to do anything for school;being productive;when i do not need to do anything for school;0;0;medium
+4-4-2023 12:11:18;computational science;yes;0;mu;ja;male;yes;18-11-2000;450;no;60.0;15.0;27;12:00;doing an activity or sports;progress in study;doing an activity or sport;progress in study;0;0;medium
+4-4-2023 12:11:18;other;yes;0;mu;ja;male;not willing to say;08/05/1998;450;no;60.0;10.0;3;23;good weather;having nice sunny weather;good weather;having nice sunny weather;1;0;medium
+4-4-2023 12:11:18;business analytics;yes;0;mu;ja;male;yes;5 January 1998;200;no;20.0;7.0;7;21:00;having time to workout;travel;having time to workout;travel;0;0;low
+4-4-2023 12:11:18;artificial intelligence;yes;0;mu;ja;male;yes;09/03/1998;250;no;70.0;7.0;9;2 am;sleep;excellent people;sleep;excellent people;0;0;high
+4-4-2023 12:11:19;bioinformatics;yes;0;sigma;nee;female;yes;1220;400;yes;100.0;0.0;9;12:30;good food;no class;good food;no class;0;1;high
+4-4-2023 12:11:19;bioinformatics;yes;0;mu;ja;female;yes;29/11/2000;200;no;99.0;1.0;666;2 AM;sunny day;a nice meal;sunny day;a nice meal;1;0;high
+4-4-2023 12:11:19;computer science;no;0;sigma;nee;male;yes;1999;300;no;100.0;7.0;7;1:00;a nice weather;sunny and warm weather;a nice weather;sunny and warm weather;1;0;high
+4-4-2023 12:11:19;artificial intelligence;yes;0;mu;ja;female;no;31/03/1998;450;no;5.0;6.0;3;1;waking up early and working out;food;waking up early and working out;food;0;0;low
+4-4-2023 12:11:19;other;no;0;mu;nee;female;no;10-05-2001;451;no;90.0;2.0;8;00:30;no am lecture;learning on machine learning;no am lecture;learning on machine learning;0;0;high
+4-4-2023 12:11:20;finance;no;0;mu;nee;male;not willing to say;20-07;420;no;100.0;3.0;20;22:30;good grade;like i said;good grade;like i said;0;0;high
+4-4-2023 12:11:20;computer science;yes;1;sigma;ja;male;not willing to say;26 June Nineteen ninety nine;438;unknown;100.0;1.0;0;Did not slept on the couch;idk never had any;sunshine;idk never had any;sunshine;1;0;high
+4-4-2023 12:11:21;econometrics;no;0;mu;nee;male;yes;01/05/1995;500;no;60.0;5.0;7;00:30;sleep in;enough credits;sleep in;enough credit;0;0;medium
+4-4-2023 12:11:21;business analytics;yes;unknown;mu;ja;non-binary;yes;20/06/1999;200;no;30.0;3.0;6;24:00;sleeping well;winning at chess;sleeping well;winning at chess;0;0;low
+4-4-2023 12:11:21;other;yes;0;mu;ja;male;no;01/01;250;no;85.0;5.0;420;23:50;avocado toast;good food;avocado toast;good food;0;0;high
+4-4-2023 12:11:21;business analytics;yes;1;mu;ja;female;yes;10-10-2001;350;no;60.0;2.0;55;23:30;sunshine;hugs;sunshine;hug;1;0;medium
+4-4-2023 12:11:21;business analytics;yes;unknown;mu;ja;female;yes;18-08-1999;250;no;73.0;0.0;73;23.00;wake up feeling rested;pizza;wake up feeling rested;pizza;0;0;high
+4-4-2023 12:11:21;artificial intelligence;no;0;mu;ja;female;yes;29-06-2000;200;no;5.0;8.0;1;23:30;cold dip in open water;nice food and good stuff to watch;cold dip in open water;nice food and good stuff to watch;0;0;low
+4-4-2023 12:11:22;bioinformatics;yes;0;sigma;nee;male;yes;11-09-1999;230;no;5.0;0.0;333;2 AM;free time to do whatever i want;outside;free time to do whatever i want;outside;0;0;low
+4-4-2023 12:11:22;econometrics;no;0;mu;nee;male;yes;18-11-2000;250;no;25.0;4.0;18364;22:30;time off;good weather;time off;good weather;1;0;low
+4-4-2023 12:11:22;business analytics;yes;0;mu;ja;male;yes;21-09-1999;300;no;5.0;10.0;46372726;23:00;fun activities;eating;fun activity;eating;0;0;low
+4-4-2023 12:11:22;artificial intelligence;yes;0;mu;ja;gender fluid;not willing to say;01-01-1900;800;no;100.0;8.0;726361918372611819732618191817;02:00 am;getting paid;food;getting paid;food;0;0;high
+4-4-2023 12:11:23;computer science;no;0;unknown;ja;not willing to answer;not willing to say;20/11/1990;400;yes;50.0;8.0;2.022.222;1am;weather;going ssj;weather;going ssj;1;0;medium
+4-4-2023 12:11:23;other;no;0;mu;nee;male;yes;200BC;Over 9000;no;11.0;21.0;99;When the moon was at the highest point;when people gimme foody;sports;when people gimme foody;sport;0;0;low
+4-4-2023 12:11:23;artificial intelligence;no;0;mu;nee;gender fluid;not willing to say;23.04.1995;266;no;40.0;10.0;237948422;01:00;sex;good weather;sex;good weather;1;0;medium
+4-4-2023 12:11:24;econometrics;no;0;mu;ja;male;no;12-08-1999;380;no;5.0;4.0;17;00:00;getting things done;having a sufficient amount of sleep;getting thing done;having a sufficient amount of sleep;0;0;low
+4-4-2023 12:11:24;econometrics;no;0;mu;nee;male;no;24 april;400;no;69.0;10.0;5;23:50;going to the gym;not being in the netherlands;going to the gym;not being in the netherlands;0;0;high
+4-4-2023 12:11:24;bioinformatics;yes;0;mu;nee;male;yes;11-12;643;no;39.0;7.0;69;01:00;sun;productivity;sun;productivity;1;0;medium
+4-4-2023 12:11:25;artificial intelligence;yes;1;mu;ja;male;not willing to say;12/03/1999;581;no;50.0;1.0;13;2:01;food;hanging out with friends;food;hanging out with friend;0;0;medium
+4-4-2023 12:11:25;artificial intelligence;yes;1;mu;ja;female;not willing to say;24-08-1999;250;no;68.0;2.0;24;00:40;good weather;books;good weather;book;1;0;high
+4-4-2023 12:11:25;artificial intelligence;yes;unknown;mu;ja;female;no;14-09-2001;458;no;80.0;6.0;17;23.59;sunshine;friends;sunshine;friend;1;0;high
+4-4-2023 12:11:26;business analytics;yes;0;mu;nee;female;yes;19-05-2000;588;no;70.0;1.0;8;22:00;weather;good food;weather;good food;1;0;high
+4-4-2023 12:11:26;econometrics;no;1;mu;nee;female;yes;-;400;no;70.0;5.0;119;01:30;sun shining;good food;sun shining;good food;1;0;high
+4-4-2023 12:11:26;bioinformatics;yes;unknown;sigma;ja;female;yes;20/09/1998;400;no;40.0;2.0;45;2;spending time with someone i love;not worrying;spending time with someone i love;not worrying;0;0;medium
+4-4-2023 12:11:26;artificial intelligence;yes;0;mu;nee;female;no;28/10/1996;410;no;100.0;0.0;9;2.00;feeling energetic;interesting data mining course;feeling energetic;interesting data mining course;0;0;high
+4-4-2023 12:11:26;computer science;yes;1;mu;ja;female;yes;25-11-2000;300;no;18.0;0.0;886;01:50;good weather;being well rested;good weather;being well rested;1;0;low
+4-4-2023 12:11:27;artificial intelligence;yes;1;mu;ja;female;yes;05-05-1998;418;no;31.0;3.0;68;22:00;sunny weather;money;sunny weather;money;1;0;low
+4-4-2023 12:11:27;finance;yes;0;mu;nee;male;yes;05/11/1999;325;no;98.0;4.0;99;23:30;sun;playing fun games;sun;playing fun game;1;0;high
+4-4-2023 12:11:27;business analytics;yes;0;mu;nee;female;no;01/06/1999;500;no;80.0;3.0;6;11pm;eating yummy food;beer with friends;eating yummy food;beer with friend;0;0;high
+4-4-2023 12:11:28;computational science;yes;unknown;mu;ja;female;yes;23-08-1999;400;no;80.0;4.0;3;23:45;got a lot done;being with friends;got a lot done;being with friend;0;0;high
+4-4-2023 12:11:28;computer science;no;0;sigma;nee;male;yes;05/02/1998;339;no;60.0;2.0;69420;1am;sunlight;good diner;sunlight;good diner;1;0;medium
+4-4-2023 12:11:28;business analytics;yes;0;mu;ja;female;yes;secret;500;no;10.0;3.0;4;01:00;warm weather;activity;warm weather;activity;1;0;low
+4-4-2023 12:11:28;bioinformatics;no;1;mu;nee;male;not willing to say;13-06-2000;300;no;20.0;4.0;72;01:00;friends;excersise;friend;excersise;0;0;low
+4-4-2023 12:11:28;computer science;yes;1;mu;ja;male;yes;17-04-1998;520;no;30.0;5.0;17;1:30;good sleep;sport;good sleep;sport;0;0;low
+4-4-2023 12:11:29;bioinformatics;yes;0;mu;nee;male;yes;06/11/1997;400;no;15.0;6.0;27;02:00;having a good day of work;day off;having a good day of work;day off;0;0;low
+4-4-2023 12:11:29;other;no;0;mu;ja;female;no;15-4-1999;473;no;30.0;4.0;8;23:00;sun;winning league of legends;sun;winning league of legend;1;0;low
+4-4-2023 12:11:30;computational science;no;1;mu;unknown;female;yes;21-02-2000;600;no;99.0;2.0;2;1:00;no stress;sunshine;no stress;sunshine;1;0;high
+4-4-2023 12:11:30;computer science;no;1;sigma;ja;female;yes;03.03;250;yes;30.0;2.0;3;4 hours;good sleep;good weather;good sleep;good weather;1;0;low
+4-4-2023 12:11:30;computer science;yes;1;sigma;ja;male;no;09-09-2001;300;no;33.0;6.0;69;01:00;free schedule;cozy environment;free schedule;cozy environment;0;0;low
+4-4-2023 12:11:30;bioinformatics;yes;0;sigma;nee;female;yes;09/10/2000;500;no;30.0;2.0;37;00:40;no ddl;beer;no ddl;beer;0;0;low
+4-4-2023 12:11:30;cls;no;1;mu;nee;male;yes;1993;400;no;70.0;4.0;582948164919474718928472615648910748748284728949293765313567899097472791983646595910916526819048857579202010109485748929275747382991919847575748389291010;23:30;sports;seeing my friends;sport;seeing my friend;0;0;high
+4-4-2023 12:11:32;bioinformatics;yes;0;sigma;nee;female;no;20.06.2000.;400;no;60.0;4.0;98;01:30;nice weather;going out with friends;nice weather;going out with friend;1;0;medium
+4-4-2023 12:11:33;econometrics;no;0;mu;nee;female;no;07-07-2001;500;no;20.0;4.0;7;22.30;sunshine;good weather;sunshine;good weather;1;0;low
+4-4-2023 12:11:33;computer science;no;0;mu;ja;male;yes;1-1;420;no;10.0;9.0;7;00:00;;productivity;;productivity;0;0;low
+4-4-2023 12:11:33;other;yes;0;sigma;nee;male;yes;04/02/1999;332;no;99.9;3.0;14;00:30;good food;more coffee;good food;more coffee;0;0;high
+4-4-2023 12:11:33;artificial intelligence;no;0;mu;ja;male;yes;11/03/1995;140;no;30.0;3.0;69;01:00;coffee;good music;coffee;good music;0;0;low
+4-4-2023 12:11:33;artificial intelligence;no;0;mu;nee;male;no;10/11;500;no;30.0;1.0;73;23:00;sunlight;nice weather;sunlight;nice weather;1;0;low
+4-4-2023 12:11:34;other;yes;1;mu;ja;male;yes;23-02-1999;250;no;60.0;6.0;69;00:30;no lectures;good weather;no lecture;good weather;1;0;medium
+4-4-2023 12:11:34;computer science;yes;1;sigma;ja;female;yes;March 16;350;unknown;60.0;2.0;101;3:00;no deadlines;drinking coffee;no deadline;drinking coffee;0;0;medium
+4-4-2023 12:11:34;business analytics;yes;unknown;mu;ja;male;yes;19 September 1997;150;yes;0.0;6.0;9;02:00;the weather;doing something fun;the weather;doing something fun;1;1;low
+4-4-2023 12:11:34;bioinformatics;yes;0;mu;ja;female;not willing to say;30-12-200000000;183;no;60.0;5.763456375838926;4579;1am;seeing friends;fun things to do;seeing friend;fun thing to do;0;0;medium
+4-4-2023 12:11:35;business analytics;yes;1;mu;ja;female;yes;04-01-2001;450;no;70.0;5.0;11;23:30;good weather;being efficient;good weather;being efficient;1;0;high
+4-4-2023 12:11:36;business analytics;no;0;mu;nee;male;yes;15/09/1999;90;no;50.0;4.0;8798;01:00;finishing an exam;good food;finishing an exam;good food;0;0;medium
+4-4-2023 12:11:36;artificial intelligence;no;unknown;mu;ja;female;not willing to say;11-12-1997;509;no;1.0;3.0;76;23:00;sun;sun;sun;sun;1;0;low
+4-4-2023 12:11:37;artificial intelligence;yes;unknown;mu;ja;male;yes;14051998;290;no;20.0;10.0;56784;00:00;happyness;late wakeup;happyness;late wakeup;0;0;low
+4-4-2023 12:11:37;business analytics;yes;1;mu;ja;male;yes;05-09-2000;350;no;50.0;8.0;9;02:00;sun;sports;sun;sport;1;0;medium
+4-4-2023 12:11:37;artificial intelligence;yes;0;mu;ja;female;yes;27-11-2000;600;no;21.0;8.0;123008483;late;sun;the day after an assignment exam;sun;the day after an assignment exam;1;0;low
+4-4-2023 12:11:37;artificial intelligence;yes;1;mu;ja;male;not willing to say;30/12/1999;557;no;100.0;4.0;19191919191919191919292929299292928384849495959;00:00;seeing my friends;coffee;seeing my friend;coffee;0;1;high
+4-4-2023 12:11:38;computational science;yes;0;unknown;nee;female;not willing to say;10/12/1998;300;no;25.0;2.0;5;2;nice food;fun activities planned;nice food;fun activity planned;0;0;low
+4-4-2023 12:11:38;business analytics;yes;unknown;mu;ja;male;yes;29-05-2000;350;no;0.0;7.0;15;1:00;good weather;sunny;good weather;sunny;1;0;low
+4-4-2023 12:11:38;artificial intelligence;yes;1;mu;ja;male;yes;more than 20 years ago;350;no;69.0;5.763456375838926;π;late;wake up;good food;wake up;good food;0;0;high
+4-4-2023 12:11:39;artificial intelligence;yes;1;mu;ja;male;yes;03-01-2001;275;no;0.0;8.0;420;half past twelve;gym;sleeping well;gym;sleeping well;0;0;low
+4-4-2023 12:11:39;artificial intelligence;yes;1;mu;ja;female;yes;19-11-1999;298;unknown;20.0;7.0;1036275026301647291280104720;23:00;playing sports;sport;playing sport;sport;0;0;low
+4-4-2023 12:11:39;econometrics;yes;1;mu;nee;male;yes;20-02-2002;400;no;15.0;5.0;37;00:30;pancakes;a day spent with friends;pancake;a day spent with friend;0;0;low
+4-4-2023 12:11:40;bioinformatics;yes;0;mu;nee;female;yes;16/01/2001;387;no;2.0;4.0;16;01:00;a sunny day;having fun;a sunny day;having fun;1;0;low
+4-4-2023 12:11:40;business analytics;yes;1;mu;ja;male;yes;04-09;386;no;70.0;10.0;4;03:00;arsenal wins;eating;arsenal win;eating;0;0;high
+4-4-2023 12:11:41;artificial intelligence;yes;1;mu;ja;female;no;4/6/2000;200;no;70.0;6.0;9;11:30;sleeping;not crossing paths with rude people;sleeping;not crossing path with rude people;0;0;high
+4-4-2023 12:11:41;econometrics;no;0;mu;nee;female;no;July;150;no;20.0;2.0;7;01:00;getting up on time;work;getting up on time;work;0;0;low
+4-4-2023 12:11:43;artificial intelligence;no;0;mu;nee;male;yes;06-02-1996;600;no;0.0;1.0;666;00:20;sun love and beer;sun;sun love and beer;sun;1;0;low
+4-4-2023 12:11:43;business analytics;yes;unknown;mu;ja;female;no;5 december;228;no;65.0;20.0;3;22.53;fun;good food;fun;good food;0;0;medium
+4-4-2023 12:11:43;artificial intelligence;yes;1;mu;ja;female;no;04-08-1998;280;no;80.0;1.0;4;22:00;sunshine;challenge completed;sunshine;challenge completed;1;0;high
+4-4-2023 12:11:44;finance;yes;0;mu;ja;male;no;May 9th;400;no;88.0;5.0;94;2 am;challenge accepted;nice feeling about myself;challenge accepted;nice feeling about myself;0;0;high
+4-4-2023 12:11:44;computer science;no;0;unknown;ja;female;yes;1999;260;yes;80.0;0.0;77;2:00;sunshine;joking;sunshine;joking;1;0;high
+4-4-2023 12:11:44;business analytics;yes;unknown;mu;ja;female;yes;29th March 1998;326;yes;48.261403333333334;10.0;3;23:30;sunshine;goud gele rakker;sunshine;goud gele rakker;1;0;medium
+4-4-2023 12:11:45;bioinformatics;yes;0;sigma;ja;not willing to answer;not willing to say;Every year;230;unknown;50.0;3.0;No;I went to bed at 1;it being my birthday;productivity;it being my birthday;productivity;0;0;medium
+4-4-2023 12:11:46;artificial intelligence;no;0;mu;nee;male;yes;31 december;280;no;7.0;8.0;16533333;00:30;sunshine;having a walk;sunshine;having a walk;1;0;low
+4-4-2023 12:11:47;econometrics;no;0;mu;nee;male;yes;18.08.1997;550;no;0.0;4.0;82;24;nice movie;having done a sport;nice movie;having done a sport;0;0;low
+4-4-2023 12:11:47;business analytics;yes;0;mu;ja;male;yes;0;500;no;48.261403333333334;8.0;11;03:00;laughing a lot;sunday;laughing a lot;sunday;1;0;medium
+4-4-2023 12:11:49;other;yes;1;mu;ja;male;yes;30-2-2017;436;no;60.0;53.0;RandomStream RNG, RNG.nextInt();I didnt ;saturday;no shitty people;saturday;no shitty people;0;0;medium
+4-4-2023 12:11:50;computer science;yes;1;mu;ja;female;yes;21/06;250;no;33.0;20.0;214876378;2;good food;hanging with friends;good food;hanging with friend;0;0;low
+4-4-2023 12:11:54;business analytics;yes;1;mu;ja;male;yes;31-12-1999;350;no;17.0;5.0;102;01:00;good food;good night sleep;good food;good night sleep;0;0;low
+4-4-2023 12:11:55;artificial intelligence;yes;1;mu;ja;male;yes;27-10-1997;305;no;40.0;3.0;2323;00:40;sunshine;coffee;sunshine;coffee;1;0;medium
+4-4-2023 12:11:55;artificial intelligence;yes;1;mu;ja;female;no;13/07/1999;312;no;40.0;5.0;12;01:00;sun;interesting book or podcast;sun;interesting book or podcast;1;0;medium
+4-4-2023 12:11:56;artificial intelligence;no;0;mu;nee;male;no;08/08/1998;623;no;100.0;3.0;2;23:20;well rested;my dog;well rested;my dog;0;0;high
+4-4-2023 12:11:56;bioinformatics;yes;0;mu;ja;female;yes;09/09/1993;500;no;20.0;3.0;8512;01:30;good weather;pancakes;good weather;pancake;1;0;low
+4-4-2023 12:11:58;artificial intelligence;yes;1;mu;nee;not willing to answer;yes;06-29-00;205;no;48.261403333333334;6.0;37;23.17;sex in the morning;freeeeeee;sex in the morning;freeeeeee;0;0;medium
+4-4-2023 12:11:59;business analytics;yes;1;mu;ja;male;yes;26-10-2000;567;no;60.0;5.763456375838926;Random();Non of ya business;sun;koen s smile;sun;koen s smile;1;0;medium
+4-4-2023 12:12:00;computer science;yes;0;mu;ja;male;yes;November 22, 1999;340;no;0.0;10.0;42;3:00;good food;working out;good food;working out;0;0;low
+4-4-2023 12:12:00;business analytics;yes;0;mu;nee;female;yes;11;500;no;75.0;3.0;68;2;hanging out with friends;winning one on one in basketball;hanging out with friend;winning one on one in basketball;0;0;high
+4-4-2023 12:12:02;other;yes;0;sigma;ja;male;yes;2000-01-24;100;no;53.0;8.0;24;23;winning dota rank;being with people i like;winning dota rank;being with people i like;0;0;medium
+4-4-2023 12:12:02;business analytics;yes;1;mu;ja;male;yes;14-09-2000;421;no;10.0;8.0;69;23:00;playing sports;being on a holiday;playing sport;being on a holiday;0;0;low
+4-4-2023 12:12:02;business analytics;yes;0;mu;ja;female;no;14-11;200;no;0.2;5.0;78.5;22:30;sun alcohol sex no study stress or job stress;a nice dump after the snacks;sun alcohol sex no study stress or job stress;a nice dump after the snack;1;0;low
+4-4-2023 12:12:03;artificial intelligence;yes;unknown;mu;ja;other;yes;01/01/0001;Bout six hunnid;no;20.0;7.0;13;12:00AM;snacks;good weather;snack;good weather;1;0;low
+4-4-2023 12:12:04;computer science;yes;1;mu;ja;male;yes;12-02-2001;350;no;80.0;6.0;69420;00:00;sex;sunshine and no stress;sex;sunshine and no stress;1;0;high
+4-4-2023 12:12:05;econometrics;yes;1;mu;ja;male;yes;28 Sept 2000;250;no;75.0;3.0;3.141.592.654;2:30;good food;working studying efficiently for at least hours;good food;working studying efficiently for at least hour;0;0;high
+4-4-2023 12:12:05;computational science;yes;0;mu;nee;male;yes;29/4;201;no;20.0;0.0;42;23:00;meeting a new person;spending the day with my loved ones;meeting a new person;spending the day with my loved one;0;0;low
+4-4-2023 12:12:05;artificial intelligence;yes;0;mu;ja;male;not willing to say;15-01-1999;200;no;10.0;6.0;4;00:00;when frank ocean drops a new album;activities;when frank ocean drop a new album;activity;0;0;low
+4-4-2023 12:12:09;computational science;no;0;mu;nee;male;no;12 januari;369;no;25.0;10.0;###############################################################################################################################################################################################################################################################;3am;start of weekend;nice weather;start of weekend;nice weather;1;0;low
+4-4-2023 12:12:16;computational science;no;0;mu;nee;male;yes;6-11-1997;300;no;44.0;2.0;3;00.30;meeting friends;good company;meeting friend;good company;0;0;medium
+4-4-2023 12:12:16;finance;yes;0;mu;ja;female;no;10-07-2000;428;no;75.0;7.0;7;23:45;good weather;communication;good weather;communication;1;0;high
+4-4-2023 12:12:17;computer science;yes;0;mu;ja;male;yes;02/11/1999;280;yes;60.0;3.0;373629566;2.30;food;meet some new interesting people;food;meet some new interesting people;0;0;medium
+4-4-2023 12:12:17;other;yes;1;mu;ja;male;no;28/08/1997;300;no;25.0;4.0;3;23:45;my code runs without errors before;exploring new things;my code run without error before;exploring new thing;0;0;low
+4-4-2023 12:12:18;computer science;no;0;mu;nee;female;no;27/09/1997;Around 200;no;0.0;3.0;1;1pm;pleasant atmosphere and weather around me;watching samson gert;pleasant atmosphere and weather around me;watching samson gert;1;0;low
+4-4-2023 12:12:19;business analytics;yes;1;mu;ja;male;yes;28-04-2001;300;no;70.0;3.0;7;02:00;winning the lottery;passing exams;winning the lottery;passing exam;0;0;high
+4-4-2023 12:12:20;bioinformatics;yes;0;mu;nee;female;yes;jan 7;500+;no;56.0;1.0;8;3 am;good weather;good food;good weather;good food;1;0;medium
+4-4-2023 12:12:20;bioinformatics;yes;0;mu;nee;female;no;28th January;350;no;66.0;2.0;146;00:30;puppies;food;puppy;food;0;0;medium
+4-4-2023 12:12:20;artificial intelligence;yes;0;mu;nee;female;yes;26 feb;200;unknown;69.0;4.0;|;1;friends;nice weather;friend;nice weather;1;0;high
+4-4-2023 12:12:21;bioinformatics;yes;unknown;mu;ja;male;yes;06/10/1999;400;no;1.0;10.0;1234567890;1:30;good food;playing padel;good food;playing padel;0;0;low
+4-4-2023 12:12:23;computational science;yes;1;mu;ja;male;yes;22-01-1999;350;no;90.0;2.0;51;01:00;having drinks with friends;going to church;having drink with friend;going to church;0;0;high
+4-4-2023 12:12:25;bioinformatics;yes;1;mu;ja;male;no;18/11/1996;250;no;50.0;2.0;7;01:00;reading bible;good coffee;reading bible;good coffee;0;0;medium
+4-4-2023 12:12:29;artificial intelligence;yes;1;mu;ja;female;yes;27/07/1999;300;no;99.0;4.0;2;1:00;sun;watching ajax win;sun;watching ajax win;1;0;high
+4-4-2023 12:12:29;business analytics;yes;1;mu;ja;male;yes;19-11-2000;200;no;0.0;8.0;7;00:00;getting a win in warzone;when my family is safe and happy;getting a win in warzone;when my family is safe and happy;0;0;low
+4-4-2023 12:12:31;computer science;no;unknown;unknown;nee;female;no;17-09-1981;550;no;10.0;5.0;2;21:30;no arguments with anyone;rainy sunday i am inside listening to my playlist on spotify and making a stew;no argument with anyone;rainy sunday i am inside listening to my playlist on spotify and making a stew;1;0;low
+4-4-2023 12:12:39;econometrics;yes;0;mu;ja;male;yes;1/1/1;224;no;50.0;4.0;-3.14;11pm;a bit of study a bit of wine a bit of sex a bit of tv sun but not too hot;board game;a bit of study a bit of wine a bit of sex a bit of tv sun but not too hot;board game;1;0;medium
+4-4-2023 12:12:51;artificial intelligence;no;0;mu;nee;male;yes;March 8;200;yes;20.0;2.0;114514;11:30;video game;when figuring out something;video game;when figuring out something;0;0;low
+4-4-2023 12:12:52;bioinformatics;yes;0;unknown;nee;not willing to answer;no;10-09-1999;200;no;15.0;2.0;2020;2:30;good grades;fun activities;good grade;fun activity;0;0;low
+4-4-2023 12:12:52;artificial intelligence;yes;0;mu;ja;male;not willing to say;10-1-2000;180;no;57.0;0.0;47;12:00;mood;sex;mood;sex;0;0;medium
+4-4-2023 12:12:55;bioinformatics;yes;0;sigma;nee;female;yes;19/11/2000;476;no;60.0;3.5;9;23;sunshine;good food;sunshine;good food;1;0;medium
+4-4-2023 12:12:55;artificial intelligence;no;0;mu;ja;male;yes;01-28-1997;300;no;30.0;5.0;8,10892E+12;12:00;sunny;when i longboard with the bois;sunny;when i longboard with the bois;1;0;low
+4-4-2023 12:13:15;bioinformatics;yes;unknown;mu;ja;male;no;14-05-1999;400;no;28.0;2.0;748;2 am;gib vacation pls;love;gib vacation pls;love;0;0;low
+4-4-2023 12:13:21;bioinformatics;yes;0;mu;nee;female;no;12th of february;450;no;45.0;2.0;7;23:30;sunshine;saturday;sunshine;saturday;1;0;medium
+4-4-2023 12:13:24;bioinformatics;yes;0;mu;nee;male;no;02-12-1994;198;no;80.0;0.0;28;23:00;friday;friends;friday;friend;0;0;high
+4-4-2023 12:13:28;bioinformatics;yes;0;mu;nee;male;yes;13/06/1996;400;no;70.0;8.0;69;3;go outisde;nice weather;go outisde;nice weather;1;0;high
+4-4-2023 12:13:31;computer science;yes;1;sigma;ja;male;not willing to say;25-07-2000;200;no;70.0;10.0;67;1:00;good meal;successful;good meal;successful;0;0;high
+4-4-2023 12:13:33;other;no;0;unknown;ja;male;no;13/12/1996;400;no;10.0;0.0;13;01:09;productive;educational accomplishments;productive;educational accomplishment;0;0;low
+4-4-2023 12:13:42;bioinformatics;yes;unknown;mu;nee;female;no;1996;150;no;48.261403333333334;5.0;18;4:00;nice people;you;nice people;you;0;0;medium
+4-4-2023 12:14:42;artificial intelligence;yes;0;mu;ja;gender fluid;no;04-09-1996;69,420/  ;yes;50.0;5.763456375838926;69. ;after your dad went ;never before seen trauma;relationships;never before seen trauma;relationship;0;0;medium
+4-4-2023 12:16:05;artificial intelligence;yes;0;mu;nee;male;not willing to say;14-05-1999;100;no;80.0;1.0;1;4:30am;work;sport;work;sport;0;0;high
+4-4-2023 12:28:06;econometrics;no;1;mu;ja;female;no;10;200;yes;80.0;3.0;10;22:00;good meal;Sport;good meal;Sport;0;0;high
